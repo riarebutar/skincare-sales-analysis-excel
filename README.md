@@ -111,6 +111,8 @@ The **Aqua Lift Eye Patch** alone drives $769K in net profit, more than 3x the n
 
 **Eye Care** combines high net sales with the highest refund rate (~8%+), making it the category leaking the most value in absolute terms. **Anti-Aging,** by contrast, pairs high sales with a comparatively low refund rate, a healthier profile. Moisturizer and Sunscreen have the highest refund rates overall but at much lower sales exposure, so the dollar impact is smaller.
 
+### Profitability & Loss Analysis
+
 <img width="2160" height="935" alt="Screenshot 2026-09-17 195033" src="https://github.com/user-attachments/assets/d5f313df-a2db-4cb0-a9c6-8301ee79e9bd" />
 
 Of every gross sales dollar, most is kept as operating profit, but a real chunk leaks out, returns ($591K), cancellations ($469K), and discounts ($302K) together account for $1.36M (14.5%) never reaching the bottom line.
