@@ -14,6 +14,24 @@ Insights and recommendations are provided on the following key areas:
 
 - **Profitability and Loss Analysis:** An evaluation of where and why the company is losing money, and which campaigns or channels are underperforming.
 
+### Tools Used
+
+- Excel:  data cleaning, transformation, and analysis of the raw sales dataset
+
+- Claude in Excel: assisted with formulas, pivot tables and analysis directly within the spreadsheet
+
+### Skills Applied
+
+- Data cleaning & transformation: turning a raw/messy dataset (LumiWell Beauty Holdings sales data) into an analysis-ready format
+
+- Exploratory data analysis (EDA): identifying trends across markets, channels, products, and customer segments
+
+- Data visualization: building charts (scatter plots, bar charts, KPI-style summaries) to communicate findings clearly
+
+- Business/commercial analysis: connecting metrics to actionable recommendations
+
+- Insight generation & storytelling: writing clear, prioritized recommendations for a non-technical audience
+
 ## Data Structure and Overview
 
 Lumiwell Excel structure is shown below. 
@@ -92,3 +110,36 @@ Returning customer revenue has grown steadily and now outpaces new customer reve
 The **Aqua Lift Eye Patch** alone drives $769K in net profit, more than 3x the next-highest product. Meaning a disproportionate share of profit rests on one SKU. Eye Care products dominate the top-profit list (4 of the top 5), reinforcing category importance despite its declining growth.
 
 **Eye Care** combines high net sales with the highest refund rate (~8%+), making it the category leaking the most value in absolute terms. **Anti-Aging,** by contrast, pairs high sales with a comparatively low refund rate, a healthier profile. Moisturizer and Sunscreen have the highest refund rates overall but at much lower sales exposure, so the dollar impact is smaller.
+
+<img width="2160" height="935" alt="Screenshot 2026-09-17 195033" src="https://github.com/user-attachments/assets/d5f313df-a2db-4cb0-a9c6-8301ee79e9bd" />
+
+Of every gross sales dollar, most is kept as operating profit, but a real chunk leaks out, returns ($591K), cancellations ($469K), and discounts ($302K) together account for $1.36M (14.5%) never reaching the bottom line.
+
+South Korea and Japan lose the most in dollar terms; Malaysia and Taiwan lose the highest percentage of their sales. Singapore, Philippines, and Thailand are the cleanest markets, low leakage, no urgent fix needed.
+
+Small discounts (5-10%) barely hurt margin, but beyond 15-20% margin drops fast (down to 57% at 20%+) while order size also shrinks, meaning deep discounts don't even buy bigger baskets. Capping discounts around 10% protects margin without losing much sales lift.
+
+The top return reasons are operational, wrong item received ($92K), quality/skin irritation issues ($109K combined), and late arrivals ($34K). Only a small slice ("changed mind," "found cheaper elsewhere") is genuine customer preference. This means most of this loss is fixable through better fulfillment and quality control, not pricing changes.
+
+Express, Same-Day, and Standard delivery all take about the same time (~7 days) despite very different costs, customers are paying for speed they aren't getting, which likely drives some of the "arrived too late" returns.
+
+## Recommendations
+
+#### Markets
+Fund Philippines, Indonesia, and Vietnam. Pause campaign spend in Japan, Thailand, and Taiwan and commission market research first to understand what's holding local customers back from buying foreign-made products; resume marketing once we have a strategy that addresses it.
+
+#### Channels
+Reallocate budget to Online Marketplace and E-Commerce. Stop funding YouTube and Instagram and expand influencer collaborations, which are delivering far better returns.
+
+#### Products
+Fund Anti-Aging, Acne Care, and Moisturizer. Investigate the causes behind declines in Eye Care, Toner, and Face Mask, looping in the production team to check formulations and the marketing team to assess whether promotion levels are adequate.
+
+#### Retention
+Returning customers now drive the majority of revenue, so retention should be a Sales and Marketing priority alongside acquisition, including enrolling the ~1,900 high-value customers not yet in the loyalty program.
+Discounting,  Deep discounts don't drive proportionally higher sales and erode margin significantly past 15-20%. Cap discounts at 10% to protect margin without losing meaningful sales lift.
+
+#### Returns & Cancellations
+Investigate fulfillment operations (pick-and-pack accuracy, quality control) to address the largest drivers of returns and cancellations, most of which are operational rather than customer-driven.
+
+#### Shipping
+Audit shipping logistics and fix delivery timelines for Express and Same-Day options, customers are paying for speed they aren't receiving, which is directly contributing to profit lost on delivery-delay returns.
