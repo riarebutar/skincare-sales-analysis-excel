@@ -4,32 +4,25 @@
 
 LumiWell Beauty Holdings is a Seoul-headquartered skincare group that owns five brands sold across 12 markets in Asia-Pacific and two international outposts (Australia, United States).				
 							
-The company has a significant a significant amount of data on its sales, marketing effort, operational efficiency, product offerings, target markets and loyalty programs.This project thoroughly analyzes this data to review the current standing of the business based on the financial year 2022-2024 data.
+The company has a significant amount of data on its sales, marketing effort, operational efficiency, product offerings, target markets and loyalty programs.This project thoroughly analyzes this data to review the current standing of the business based on the financial year 2022-2024 data.
 
 Insights and recommendations are provided on the following key areas:
 
 - **Growth and Market Investment:** An analysis of company growth across markets and sales channels, and how marketing investment is performing against that growth.
-
 - **Customer and Product Value:** An assessment of customer segments and spending behavior, and which products deliver the most value versus volume.
-
 - **Profitability and Loss Analysis:** An evaluation of where and why the company is losing money, and which campaigns or channels are underperforming.
 
 ### Tools Used
 
 - Excel:  data cleaning, transformation, and analysis of the raw sales dataset
-
 - Claude in Excel: assisted with formulas, pivot tables and analysis directly within the spreadsheet
 
 ### Skills Applied
 
 - Data cleaning & transformation: turning a raw/messy dataset (LumiWell Beauty Holdings sales data) into an analysis-ready format
-
 - Exploratory data analysis (EDA): identifying trends across markets, channels, products, and customer segments
-
 - Data visualization: building charts (scatter plots, bar charts, KPI-style summaries) to communicate findings clearly
-
 - Business/commercial analysis: connecting metrics to actionable recommendations
-
 - Insight generation & storytelling: writing clear, prioritized recommendations for a non-technical audience
 
 ## Data Structure and Overview
@@ -47,6 +40,10 @@ Columns: 47
 
 
 Prior to the beginning of the actual analysis, checks and cleaning were conducted for quality control and familiarization with the dataset. A cleaning log was used to track each column and row that needed to be checked and cleaned. Exploratory analysis was done through the creation of pivot tables to understand the company's sales data.
+
+## Problem Statement
+
+LumiWell Beauty Holdings operates across 12 global markets but has never systematically analyzed its sales data, leaving management without clear answers on where to invest for growth, which customers and products drive the most value, and where profit is being lost to discounting, returns, or inefficiency. This project addresses that gap by analyzing three years of transaction data to answer: (1) which markets, channels, and products deserve prioritized growth investment; (2) which customer segments and products are most valuable and how to retain them; and (3) where profit leakage is occurring and what should be fixed first.
 
 ## Executive Summary
 
